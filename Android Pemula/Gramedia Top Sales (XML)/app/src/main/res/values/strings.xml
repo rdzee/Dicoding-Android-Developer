@@ -13,4 +13,121 @@
     <string name="sold">Sold</string>
     <string name="arsil">Arsil Kultura Anzil</string>
     <string name="email">arsil.anzil@gmail.com</string>
+    
+    <string-array name="item_name">
+        <item>Atomic Habits</item>
+        <item>Laut Bercerita</item>
+        <item>Rich Dad Poor Dad</item>
+        <item>Bicara Itu Ada Seninya</item>
+        <item>Funiculi Funicula</item>
+        <item>You Do You</item>
+        <item>Sebuah Seni untuk Bersikap Bodo Amat</item>
+        <item>Berani Tidak Disukai</item>
+        <item>Keajaiban Toko Kelontong Namiya</item>
+        <item>The Things You Can See Only When You Slow Down</item>
+    </string-array>
+
+    <string-array name="item_price">
+        <item>Rp. 108.000</item>
+        <item>Rp. 115.000</item>
+        <item>Rp. 68.000</item>
+        <item>Rp. 79.000</item>
+        <item>Rp. 79.000</item>
+        <item>Rp. 128.000</item>
+        <item>Rp. 78.000</item>
+        <item>Rp. 98.000</item>
+        <item>Rp. 130.000</item>
+        <item>Rp. 125.000</item>
+    </string-array>
+
+    <string-array name="item_category">
+        <item>Self Improvement</item>
+        <item>Novel</item>
+        <item>Business Economics</item>
+        <item>Self Improvement</item>
+        <item>Novel</item>
+        <item>Novel</item>
+        <item>Self Improvement</item>
+        <item>Self Improvement</item>
+        <item>Novel</item>
+        <item>Self Improvement</item>
+    </string-array>
+
+    <string-array name="item_author">
+        <item>James Clear</item>
+        <item>Leila S. Chudori</item>
+        <item>Robert T. Kiyosaki</item>
+        <item>Oh Su Hyang</item>
+        <item>Toshikazu Kawaguchi</item>
+        <item>Fellexandro Ruby</item>
+        <item>Mark Manson</item>
+        <item>Ichiro Kishimi Dan Fumitake Koga</item>
+        <item>Keigo Higashino</item>
+        <item>Haemin Sunim</item>
+    </string-array>
+
+    <string-array name="item_publisher">
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+        <item>Bhuana Ilmu Populer</item>
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+        <item>Grasindo</item>
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+    </string-array>
+
+    <string-array name="item_sold">
+        <item>10 k+</item>
+        <item>8 k+</item>
+        <item>7 k+</item>
+        <item>7 k+</item>
+        <item>5 k+</item>
+        <item>4 k+</item>
+        <item>3 k+</item>
+        <item>3 k+</item>
+        <item>2 k+</item>
+        <item>2 k+</item>
+    </string-array>
+
+    <string-array name="item_rank">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="item_description">
+        <item>Atomic Habits: Small Changes that Deliver Extraordinary Results is a self improvement book by James Clear. In general, small changes often seem meaningless because they don`t make a real difference in a person`s life. If a coin doesn`t make a man rich, a positive change like meditating for a minute or reading a one-page book every day is unlikely to make a detectable difference. But that`s not what James Clear thinks, he`s a world-renowned expert on `habits`. He knows that each small improvement is like adding sand to the positive side of the scale and will result in real change that comes from the combined effect of hundreds or even thousands of small decisions. He named these small changes that have a tremendous impact atomic habits. In this book James Clear, an author and speaker who is very well known for the topic of `habits` explains that in essence a small change (Atomic Habit) is often underestimated, it will actually provide very promising results in life. What is considered important in behavior change is not a single percent improvement, but thousands of improvements or a set of atomic habits that overlap and become the basic unit in an important system.</item>
+        <item>The book consists of two parts. The first part takes the point of view of a student activist named Laut, telling how Laut and his friends plotted, moved around on the run, and were caught by the secret forces. The second part is narrated by Asmara, Laut`s younger brother. The second part represents the feelings of the families of the victims of enforced disappearance, how they search for their relatives who never returned. This book is written as a tribute to the abducted, returned and unreturned activists and the families who continue to search for answers. This novel is a manifestation in the form of fiction that we as Indonesians must not forget the history that has shaped and become the foundation of this nation. The novel also invites readers to uncover the mysteries of this nation which are not taught in school. Although this novel is fiction, the sea of storytelling shows readers that this country once entered a dark period of government.</item>
+        <item>Robert Kiyosaki has challenged and changed the way tens of millions of people around the world think about money. With perspectives that often go against common wisdom, Robert has a reputation for speaking his mind, not taking things too seriously, and being bold. He is recognized around the world as a dedicated person who cares about financial education. "The main reason people have financial difficulties is that they spend years in school but learn nothing about money. As a result, people learn to work for money but never learn to make money work for them." "Rich Dad Poor Dad is the starting point for anyone who wants to take control of their financial future."</item>
+        <item>At a time when communication is critical to competing, communication expert Oh Su Hyang has released a meaningful book. Besides containing self-improvement experiences, the book also contains various contents on communication, persuasion, and negotiation techniques. So how to speak well? Is it speaking with clear articulation? Or speak without taking a breath? No! A good speech is one that stirs the heart. A champion`s speech has its own charm. A host`s speech has the ability to liven up the atmosphere and the power of his straightforward sentences. You need to be articulate to show yourself to the other person in social life. People who speak skillfully will be more advanced than others.</item>
+        <item>An old café in a small Tokyo alley nestled under another building, it doesn`t need refrigeration to cool down. It`s not very crowded, but it`s famous for transporting visitors through time. The café`s magic attracts a woman who wants to turn back time to make up with her boyfriend, a nurse who wants to read the letter her sick husband never got to give her, a brother who wants to see his sister one last time, and a mother who wants to meet the child she may never know. But there are many rules to remember. One, they must remain seated in their assigned seats. Two, whatever they do in the future will not change the reality of the present. Three, they had to finish the special coffee served before it got cold. Another set of rules didn`t stop these people from traveling through time. But if their departure doesn`t change a single thing in the present, is it worth it?</item>
+        <item>I feel you. I`ve also experienced the same anxiety. In fact, the first decade of my career was spent experimenting with nine different roles, until I finally found ikigai. I`ve done sales, auctioneer, heavy equipment operator, travel blogger, food photographer, singer, social media manager, product manager at a tech startup, and entrepreneur. Interestingly, all that searching and searching began to answer itself when I was able to answer the question: "Who are you?" When I got to know myself, it was at that point that I found the answer that "your life (career, business, relationship, and finance) should be an extension of who you are". This book doesn`t give you direct answers, but it helps you reflect, look inward, unravel the situation, so that you can find your own answers, whenever you meet a fork in the road. Let`s begin the journey of finding yourself.</item>
+        <item>Over the past few years, Mark Manson - through his very popular blog - has been helping to correct our delusional expectations, both about ourselves and the world. Now he`s putting his cool thoughts into this great book. "In life, we only have a limited number of cares. That`s why you have to be wise about what you care about." Manson creates moments of serious and profound conversation, wrapped in entertaining and "current" stories, and wry humor. This book is a refreshing slap in the face to all of us, so we can start living a more fulfilling life, and just be."</item>
+        <item>In this book, the reader will feel that all the words are like a quote. Almost all of them contain beautiful meanings and make readers think about how to change for the better. Dare to be Disliked helps readers to explore the power within themselves as a provision to achieve the desired happiness. There are many new things that will make readers realize that some things should not be done now because they may hinder future happiness. One example is reminiscing about past traumas and making other people`s lives the standard of happiness. After reading this book, the reader`s mind becomes more open to new steps to change life for the better through bold actions to be disliked by others. An interesting part of the book is when the philosopher speaks his mind without trying to patronize the young man. However, the views of the philosopher can actually be a lesson for the reader.</item>
+        <item>This fiction novel book entitled The Miracle of Namiya Grocery Store is the work of Keigo Higashino. This novel book can be enjoyed from teenage to adult readers. The Magic of Namiya Grocery Store is an international best seller novel from Japan written by Keigo Higashino. He is one of the most popular writers in the country who has written various types of novels with sales reaching hundreds of millions of copies worldwide. It is no wonder that many of his works have been successfully translated into movies or television series in various countries. Unlike Keigo Higashino`s other works that take on the horror-mystery genre, this 2012 work contains a fantasy genre that is certainly different from the others. For those who love novels with a heartwarming fantasy genre, The Miracle of Namiya Grocery Store can be a great reading reference.</item>
+        <item>Is the world busy, or is it my mind? The world moves fast, but that doesn`t mean we have to. This bestselling mindfulness guide by Haemin Sunim, a renowned Buddhist meditation teacher born in Korea and educated in the United States, illuminates the path to inner peace and balance amid the many demands of daily life. Offering guidance on the path to well-being and happiness in eight areas-including relationships, love, and spirituality-Haemin Sunim emphasizes the importance of forging deeper connections with others and being compassionate and forgiving toward oneself. The more than twenty full-color illustrations that accompany her teachings serve as soothing visual interludes, encouraging us to notice that when you slow down, the world slows down with you.</item>
+    </string-array>
+
+    <integer-array name="item_photo">
+        <item>@drawable/ranked_1</item>
+        <item>@drawable/ranked_2</item>
+        <item>@drawable/ranked_3</item>
+        <item>@drawable/ranked_4</item>
+        <item>@drawable/ranked_5</item>
+        <item>@drawable/ranked_6</item>
+        <item>@drawable/ranked_7</item>
+        <item>@drawable/ranked_8</item>
+        <item>@drawable/ranked_9</item>
+        <item>@drawable/ranked_10</item>
+    </integer-array>
 </resources>
