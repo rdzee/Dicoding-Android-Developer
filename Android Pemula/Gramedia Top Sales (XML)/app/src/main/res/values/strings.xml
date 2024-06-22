@@ -5,16 +5,19 @@
     <string name="category">Category</string>
     <string name="value">Value</string>
     <string name="name">Name</string>
+    <string name="title">Title</string>
     <string name="description">Book Description</string>
     <string name="date">Date</string>
     <string name="author">Author</string>
     <string name="rank">Rank</string>
     <string name="page">Page</string>
     <string name="sold">Sold</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
     <string name="arsil">Arsil Kultura Anzil</string>
     <string name="email">arsil.anzil@gmail.com</string>
     
-    <string-array name="item_name">
+    <string-array name="item_title">
         <item>Atomic Habits</item>
         <item>Laut Bercerita</item>
         <item>Rich Dad Poor Dad</item>
@@ -103,6 +106,19 @@
         <item>8</item>
         <item>9</item>
         <item>10</item>
+    </string-array>
+
+    <string-array name="item_page">
+        <item>342</item>
+        <item>394</item>
+        <item>244</item>
+        <item>256</item>
+        <item>224</item>
+        <item>252</item>
+        <item>256</item>
+        <item>350</item>
+        <item>400</item>
+        <item>280</item>
     </string-array>
 
     <string-array name="item_description">

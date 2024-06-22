@@ -18,24 +18,24 @@
         android:padding="8dp">
 
         <ImageView
-            android:id="@+id/iv_item"
+            android:id="@+id/iv_item_img"
             android:layout_width="120dp"
             android:layout_height="186dp"
             android:importantForAccessibility="no"
-            android:src="@tools:sample/avatars"
             card_view:layout_constraintBottom_toBottomOf="parent"
             card_view:layout_constraintStart_toStartOf="parent"
-            card_view:layout_constraintTop_toTopOf="parent" />
+            card_view:layout_constraintTop_toTopOf="parent"
+            tools:ignore="ImageContrastCheck" />
 
         <TextView
-            android:id="@+id/tv_item_name"
+            android:id="@+id/tv_item_title"
             style="@style/TittleStyle"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
-            android:text="@string/name"
+            android:text="@string/title"
             card_view:layout_constraintEnd_toEndOf="parent"
-            card_view:layout_constraintStart_toEndOf="@+id/iv_item"
+            card_view:layout_constraintStart_toEndOf="@+id/iv_item_img"
             card_view:layout_constraintTop_toTopOf="parent" />
 
         <TextView
@@ -47,8 +47,8 @@
             android:layout_marginTop="10dp"
             android:text="@string/author"
             card_view:layout_constraintEnd_toEndOf="parent"
-            card_view:layout_constraintStart_toEndOf="@+id/iv_item"
-            card_view:layout_constraintTop_toBottomOf="@+id/tv_item_name" />
+            card_view:layout_constraintStart_toEndOf="@+id/iv_item_img"
+            card_view:layout_constraintTop_toBottomOf="@+id/tv_item_title" />
 
         <TextView
             android:id="@+id/tv_item_description"
@@ -58,12 +58,14 @@
             android:layout_marginStart="10dp"
             android:layout_marginTop="16dp"
             android:ellipsize="end"
-            android:maxLines="4"
+            android:maxLines="5"
+            android:justificationMode="inter_word"
             android:text="@string/description"
-            card_view:layout_constraintBottom_toBottomOf="parent"
+            card_view:layout_constraintBottom_toBottomOf="@+id/iv_item_img"
             card_view:layout_constraintEnd_toEndOf="parent"
-            card_view:layout_constraintStart_toEndOf="@+id/iv_item"
-            card_view:layout_constraintTop_toBottomOf="@+id/tv_item_author" />
+            card_view:layout_constraintStart_toEndOf="@+id/iv_item_img"
+            card_view:layout_constraintTop_toBottomOf="@+id/tv_item_author"
+            tools:targetApi="o" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
