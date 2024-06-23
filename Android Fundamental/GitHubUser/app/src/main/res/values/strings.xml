@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+
+    <!--  Detail Activity  -->
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="location">Location</string>
+    <string name="value">Value</string>
+</resources>
