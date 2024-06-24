@@ -52,4 +52,9 @@ dependencies {
     implementation (libs.androidx.fragment.ktx)
     implementation (libs.circleimageview)
     implementation (libs.androidx.core.splashscreen)
+
+    implementation(libs.glide)
+    implementation(libs.retrofit)
+    implementation(libs.retrofit2.converter.gson)
+    implementation(libs.logging.interceptor)
 }
